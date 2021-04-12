@@ -245,7 +245,13 @@ input[type="text"] {
     .flex {
         flex-wrap: wrap;
     }
-
+    .navbar {
+        margin: 40px 0 30px;
+    }
+    .hero-content {
+        height: 350px;
+        margin: 0 auto 40px;
+    }
     .hero-content h1 {
         font-size: 30px;
     }
